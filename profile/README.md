@@ -2,7 +2,7 @@
 
 🚀 **OnePass: Your Gateway to Trusted Funding and Investment**
 
-OnePass is a digital platform designed to connect **startups, investors, and funding operators** through **decentralized trust technologies** and **verifiable credentials**. Our mission is to create a more efficient, secure, and transparent funding ecosystem.
+OnePass is a cutting-edge platform designed to bridge the gap between **startups and investors** by offering a suite of products that streamline fundraising, due diligence, and investment decision-making. Our mission is to create a more efficient, secure, and transparent funding ecosystem.
 
 ## 🔹 What We Do
 - **For Startups:** Gain visibility, secure funding, and manage investor relations.
