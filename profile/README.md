@@ -21,7 +21,7 @@ OnePass is a cutting-edge platform designed to bridge the gap between **startups
 - [Knowledge Base](https://help.getonepass.eu)
 
 ## 📩 Contact Us
-For inquiries, support, or partnerships, feel free to [open an issue](https://github.com/getonepass/issues) or contact us at **support@getonepass.eu** *(replace with actual email)*.
+For inquiries, support, or partnerships, feel free to [open an issue](https://github.com/getonepass/issues) or contact us at **support@getonepass.eu**.
 
 🚀 Join us in shaping the future of trusted funding and investment!
 
